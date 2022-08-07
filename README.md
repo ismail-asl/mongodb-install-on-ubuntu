@@ -61,3 +61,7 @@ MongoDB installtion on linux ubuntu https://docs.mongodb.com/manual/tutorial/ins
 	Remove Data Directories
 		sudo rm -r /var/log/mongodb
 		sudo rm -r /var/lib/mongodb
+		
+		
+# Install Robo 3t
+	sudo snap install robo3t-snap
